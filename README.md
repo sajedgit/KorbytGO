@@ -1,2 +1,0 @@
-# KorbytGO
-KorbytGO Templates
